@@ -1,3 +1,4 @@
+
 (function(ext) {
     // shutdown時に呼ばれる
     ext._shutdown = function() {};
